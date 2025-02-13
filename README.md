@@ -1,5 +1,3 @@
-My favorite country is Austria Hungary!!!
-
 Note: Most of my repositories are private, but you can view some of my projects here -
 
 https://www.paxhistoria.co --
