@@ -1,6 +1,4 @@
-Note: Most of my repositories are private, but you can view some of my projects here -
+Note: Most of my repositories are private, but you can view my primary project here -
 
-https://www.paxhistoria.co --
-https://www.linkedin.com/in/ryanz22 --
-https://devpost.com/ryanz22 --
+https://www.paxhistoria.co
 
